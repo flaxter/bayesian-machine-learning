@@ -3,7 +3,7 @@
 * **Where?** LG.04, Department of Statistics, 24-29 St Giles'
 
 ## Upcoming
- * 24 January 2016 - Julien Berestycki - "Extremal point process of the branching Brownian motion"
+ * 24 January 2016 - Julien Berestycki - ["Extremal point process of the branching Brownian motion"](http://arxiv.org/abs/1104.3738)
 
 ## Current and Past
 
