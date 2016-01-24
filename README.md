@@ -1,6 +1,6 @@
 
-* **When?** Every Tuesday at **3pm** (check with maddy)
-* **Where?** Oxford Center for Gene Functions, Room B, 3rd floor
+* **When?** Every Tuesday at **3pm** 
+* **Where?** Department of Statistics, 24-29 St Giles'
 
 ## Current and Past
 
