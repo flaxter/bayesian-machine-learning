@@ -1,6 +1,9 @@
 
-* **When?** Every Tuesday at **3pm** 
-* **Where?** Department of Statistics, 24-29 St Giles'
+* **When?** Every Tuesday at **2:30pm** 
+* **Where?** LG.04, Department of Statistics, 24-29 St Giles'
+
+## Upcoming
+ * 24 January 2016 - Julien Berestycki - "Extremal point process of the branching Brownian motion"
 
 ## Current and Past
 
